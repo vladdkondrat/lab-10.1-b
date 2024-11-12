@@ -1,0 +1,4 @@
+﻿  lab 10.1 b.cpp
+C:\АП\Лаби АП\lab 10.1 b\lab 10.1 b.cpp(35,17): warning C4566: character represented by universal-character-name '\u0424' cannot be represented in the current code page (1252)
+C:\АП\Лаби АП\lab 10.1 b\lab 10.1 b.cpp(62,13): warning C4566: character represented by universal-character-name '\u2116' cannot be represented in the current code page (1252)
+C:\АП\Лаби АП\lab 10.1 b\lab 10.1 b.cpp(60,53): error C1075: '{': no matching token found
